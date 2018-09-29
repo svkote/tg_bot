@@ -2,7 +2,7 @@
 
 Бот не несет пока какой-либо полезности. используется только для обучения.
 
-https://github.com/yagop/node-telegram-bot-api
+https://github.com/yagop/node-telegram-bot-api <br>
 https://github.com/kelektiv/node-cron
 https://github.com/request/request
 https://github.com/babel/babel
